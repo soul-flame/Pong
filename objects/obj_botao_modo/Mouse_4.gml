@@ -1,0 +1,1 @@
+global.dois_players = !global.dois_players
