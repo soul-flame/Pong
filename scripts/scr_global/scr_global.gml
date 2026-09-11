@@ -6,3 +6,4 @@ global.dois_players = false
 global.velbola = 0
 //global.dois_players = true
 global.max_pontos = 2
+global.mobile = false
